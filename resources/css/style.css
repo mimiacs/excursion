@@ -41,4 +41,6 @@ p {
 footer {
   color: gray;
   text-align: right;
+  top: 25px;
+  position: relative;
 }
