@@ -20,6 +20,11 @@ a {
   bottom: 20px;
 }
 
+.app {
+  top: 20px;
+  position: relative;
+}
+
 h3 {
   color:white;
   font-weight: 300;
